@@ -20,7 +20,7 @@
     "react-dom": "^19.2.4",
     "sonner": "^2.0.0",
     "tailwindcss": "4.3.3",
-    "my-npm-log-to-learn-npm-publishing": "C:\\local-path-to-pckg\\my-npm-log-to-learn-npm-publishing-1.0.5.tgz"
+    "my-npm-log-to-learn-npm-publishing": "1.0.5"
   },
   "devDependencies": {
     "@types/react": "^19.2.14",
